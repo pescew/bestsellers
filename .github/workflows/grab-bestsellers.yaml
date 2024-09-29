@@ -29,8 +29,8 @@ jobs:
         with:
           go-version: 'stable'
           
-#      - name: Go Get Dependencies
-#        run: go get && go mod tidy
+      - name: Go Get Dependencies
+        run: go get && go mod tidy
 
       - name: Get fiction JSON
         run: wget -O combined-print-and-e-book-fiction.json https://api.nytimes.com/svc/books/v3/lists/current/combined-print-and-e-book-fiction.json?api-key=${{ secrets.NYT_API_KEY }}
@@ -38,8 +38,8 @@ jobs:
       - name: Get nonfiction JSON
         run: wget -O combined-print-and-e-book-nonfiction.json https://api.nytimes.com/svc/books/v3/lists/current/combined-print-and-e-book-nonfiction.json?api-key=${{ secrets.NYT_API_KEY }}
 
-#      - name: Cache data
-#        run: go run main.go
+      - name: Cache data
+        run: go run main.go
         
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
