@@ -280,19 +280,20 @@ func WriteJsonFile(name string, list Bestsellers) error {
 
 	err := encoder.Encode(list)
 	if err != nil {
-		return err
+		panic(err)
 	}
 
 	fileName := fmt.Sprintf("%s%s.json", JSON_DIR, name)
 
-	file, err := os.OpenFile(fileName, os.O_RDWR|os.O_CREATE, 0755)
+	file, err := os.OpenFile(fileName, os.O_RDWR|os.O_CREATE, 0666)
+	//file, err := os.OpenFile(fileName, os.O_RDWR|os.O_CREATE, 0755)
 	if err != nil {
-		return err
+		panic(err)
 	}
 	defer file.Close()
 	_, err = file.Write(buffer.Bytes())
 	if err != nil {
-		return err
+		panic(err)
 	}
 
 	return nil
