@@ -40,6 +40,12 @@ jobs:
 
       - name: Cache data
         run: go run main.go
+
+      - name: Remove fiction JSON
+        run: rm -f ./combined-print-and-e-book-fiction.json
+
+      - name: Remove nonfiction JSON
+        run: rm -f ./combined-print-and-e-book-nonfiction.json
         
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
