@@ -283,7 +283,7 @@ func WriteJsonFile(name string, list Bestsellers) error {
 		return err
 	}
 
-	fileName := fmt.Sprintf("%s%s.json", JSON_DIR, name)
+	fileName := fmt.Sprintf("%s%s.json", JSON_DIR, getInitials(strings.ReplaceAll(name, "-", " ")))
 
 	file, err := os.OpenFile(fileName, os.O_RDWR|os.O_CREATE, 0755)
 	if err != nil {
@@ -296,4 +296,17 @@ func WriteJsonFile(name string, list Bestsellers) error {
 	}
 
 	return nil
+}
+
+func getInitials(name string) string {
+	words := strings.Fields(name)
+	initials := ""
+
+	for _, word := range words {
+		if len(word) > 0 {
+			initials += string(word[0])
+		}
+	}
+
+	return initials
 }
