@@ -285,8 +285,7 @@ func WriteJsonFile(name string, list Bestsellers) error {
 
 	fileName := fmt.Sprintf("%s%s.json", JSON_DIR, name)
 
-	file, err := os.OpenFile(fileName, os.O_RDWR|os.O_CREATE, 0666)
-	//file, err := os.OpenFile(fileName, os.O_RDWR|os.O_CREATE, 0755)
+	file, err := os.OpenFile(fileName, os.O_RDWR|os.O_CREATE, 0755)
 	if err != nil {
 		panic(err)
 	}
