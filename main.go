@@ -226,7 +226,7 @@ func clearDirectory(dir string) error {
 	if err != nil {
 		return err
 	}
-	err = os.MkdirAll(dir, 0666)
+	err = os.MkdirAll(dir, 0755)
 	if err != nil {
 		return err
 	}
@@ -280,19 +280,19 @@ func WriteJsonFile(name string, list Bestsellers) error {
 
 	err := encoder.Encode(list)
 	if err != nil {
-		panic(err)
+		return err
 	}
 
 	fileName := fmt.Sprintf("%s%s.json", JSON_DIR, name)
 
 	file, err := os.OpenFile(fileName, os.O_RDWR|os.O_CREATE, 0755)
 	if err != nil {
-		panic(err)
+		return err
 	}
 	defer file.Close()
 	_, err = file.Write(buffer.Bytes())
 	if err != nil {
-		panic(err)
+		return err
 	}
 
 	return nil
