@@ -44,4 +44,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Updating cache
-          file_pattern: '*.json'        
+          file_pattern: '*.json *.jpg *.jpeg *.png *.gif *.webp *.bmp *.jfif'        
