@@ -1,3 +1,3 @@
-module github.com/pescew/bestsellers
+module bestsellers
 
 go 1.22.3
