@@ -117,7 +117,7 @@ func (b *book) compact() *BookCompact {
 		PrimaryISBN13: b.PrimaryISBN13,
 		// Publisher:     b.Publisher,
 		// Description:     b.Description,
-		Title:  b.Title,
+		Title:  strings.ToLower(b.Title),
 		Author: b.Author,
 		// Contributor:     b.Contributor,
 		// ContributorNote: b.ContributorNote,
