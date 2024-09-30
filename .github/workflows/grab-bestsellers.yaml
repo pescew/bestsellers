@@ -62,7 +62,7 @@ jobs:
         uses: jruipinto/ImageMagick-action@v1
         with:
           # ImageMagick command to be executed
-          command: mogrify -path /img -auto-orient -resize 150x150 -sampling-factor 4:2:0 -strip -quality 60 -interlace JPEG -colorspace RGB /img/*.*
+          command: mogrify -path img -auto-orient -resize 150x150 -sampling-factor 4:2:0 -strip -quality 60 -interlace JPEG -colorspace RGB img/*.*
   
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
