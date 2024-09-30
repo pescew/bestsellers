@@ -29,8 +29,8 @@ jobs:
         with:
           go-version: 'stable'
 
-      # - name: Install ImageMagick
-      #   run: sudo apt update && sudo apt install -y imagemagick
+      - name: Install ImageMagick
+        run: sudo apt update && sudo apt install -y imagemagick
           
       - name: Go Get Dependencies
         run: go get && go mod tidy
