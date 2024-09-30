@@ -56,11 +56,6 @@ jobs:
       - name: Resize and Compress
         run: mogrify -path img/min -auto-orient -resize 150x150 -sampling-factor 4:2:0 -strip -quality 75 -interlace JPEG -colorspace RGB img/min/*.*
 
-      # - name: Resize and Compress
-      #   uses: pescew/ImageMagick-action/@debian
-      #   with:
-      #     command: mogrify -path img/min -auto-orient -resize 150x150 -sampling-factor 4:2:0 -strip -quality 75 -interlace JPEG -colorspace RGB img/min/*.*
-  
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Updating cache
