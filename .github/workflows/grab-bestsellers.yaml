@@ -59,7 +59,8 @@ jobs:
       #     webpQuality: '60'
 
       - name: Resize and Compress
-        uses: jruipinto/ImageMagick-action@v1
+        # uses: jruipinto/ImageMagick-action@v1
+        uses: pescew/ImageMagick-action/@patch-1
         with:
           # ImageMagick command to be executed
           command: mogrify -path img -auto-orient -resize 150x150 -sampling-factor 4:2:0 -strip -quality 60 -interlace JPEG -colorspace RGB img/*.*
