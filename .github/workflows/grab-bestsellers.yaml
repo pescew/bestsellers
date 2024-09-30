@@ -47,16 +47,22 @@ jobs:
       - name: Remove nonfiction JSON
         run: rm -f ./combined-print-and-e-book-nonfiction.json
 
-      - name: Compress Images
-        uses: calibreapp/image-actions@main
+      # - name: Compress Images
+      #   uses: calibreapp/image-actions@main
+      #   with:
+      #     githubToken: ${{ secrets.GITHUB_TOKEN }}
+      #     compressOnly: true
+      #     ignorePaths: 'placeholders'
+      #     jpegQuality: '60'
+      #     jpegProgressive: false
+      #     pngQuality: '60'
+      #     webpQuality: '60'
+
+      - name: Resize and Compress
+        uses: jruipinto/ImageMagick-action@v1
         with:
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
-          compressOnly: true
-          ignorePaths: 'placeholders'
-          jpegQuality: '60'
-          jpegProgressive: false
-          pngQuality: '60'
-          webpQuality: '60'
+          # ImageMagick command to be executed
+          command: mogrify -path /img -auto-orient -resize 150x150 -sampling-factor 4:2:0 -strip -quality 60 -interlace JPEG -colorspace RGB /img/*.*
   
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
