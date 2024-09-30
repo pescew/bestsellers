@@ -46,7 +46,18 @@ jobs:
 
       - name: Remove nonfiction JSON
         run: rm -f ./combined-print-and-e-book-nonfiction.json
-        
+
+      - name: Compress Images
+        uses: calibreapp/image-actions@main
+        with:
+          # githubToken: ${{ secrets.GITHUB_TOKEN }}
+          compressOnly: true
+          ignorePaths: 'placeholders'
+          jpegQuality: '60'
+          jpegProgressive: false
+          pngQuality: '60'
+          webpQuality: '60'
+  
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Updating cache
