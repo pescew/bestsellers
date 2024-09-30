@@ -51,7 +51,7 @@ jobs:
         run: cp -r ./img ./img/min
 
       - name: Resize and Compress
-        uses: pescew/ImageMagick-action/@patch-1
+        uses: pescew/ImageMagick-action/@debian
         with:
           # ImageMagick command to be executed
           command: mogrify -path img/min -auto-orient -resize 150x150 -sampling-factor 4:2:0 -strip -quality 60 -interlace JPEG -colorspace RGB img/min/*.*
