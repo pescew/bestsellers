@@ -29,8 +29,8 @@ jobs:
         with:
           go-version: 'stable'
 
-      - name: Install ImageMagick
-        run: sudo apt update && sudo apt install -y imagemagick
+      # - name: Install ImageMagick
+      #   run: sudo apt update && sudo apt install -y imagemagick
           
       - name: Go Get Dependencies
         run: go get && go mod tidy
@@ -51,7 +51,7 @@ jobs:
         run: rm -f ./combined-print-and-e-book-nonfiction.json
         
       - name: Copy Images to min folder
-        run: rsync -Rr ./img/ ./img/min/
+        run: rsync -Rr ./img/ ./img/min/ && ls -l ./img/min
 
       - name: Resize and Compress
         run: mogrify -path img/min -auto-orient -resize 150x150 -sampling-factor 4:2:0 -strip -quality 75 -interlace JPEG -colorspace RGB img/min/*.*
