@@ -51,7 +51,7 @@ jobs:
         run: rm -f ./combined-print-and-e-book-nonfiction.json
         
       - name: Copy Images to min folder
-        run: rsync -Rr ./img/ ./img/min/ && ls -l ./img/min
+        run: cp -r ./img /tmp/img && cp -r /tmp/img ./img/min
 
       - name: Resize and Compress
         run: mogrify -path img/min -auto-orient -resize 150x150 -sampling-factor 4:2:0 -strip -quality 75 -interlace JPEG -colorspace RGB img/min/*.*
