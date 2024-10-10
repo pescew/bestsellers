@@ -1,22 +1,22 @@
 {
-  "LastModified": "2024-10-04T18:45:12-04:00",
+  "LastModified": "2024-10-09T22:05:06-04:00",
   "ListName": "Combined Print and E-Book Fiction",
-  "ListDate": "2024-09-28",
+  "ListDate": "2024-10-05",
   "Books": [
     {
       "Rank": 1,
-      "ISBN13": "9780593449592",
-      "Title": "counting miracles",
-      "Author": "Nicholas Sparks",
-      "ImageWidth": 330,
+      "ISBN13": "9781728296227",
+      "Title": "the boyfriend",
+      "Author": "Freida McFadden",
+      "ImageWidth": 313,
       "ImageHeight": 500
     },
     {
       "Rank": 2,
-      "ISBN13": "9780374602635",
-      "Title": "intermezzo",
-      "Author": "Sally Rooney",
-      "ImageWidth": 326,
+      "ISBN13": "9780593449592",
+      "Title": "counting miracles",
+      "Author": "Nicholas Sparks",
+      "ImageWidth": 330,
       "ImageHeight": 500
     },
     {
@@ -29,14 +29,46 @@
     },
     {
       "Rank": 4,
-      "ISBN13": "9781501110368",
-      "Title": "it ends with us",
-      "Author": "Colleen Hoover",
-      "ImageWidth": 319,
-      "ImageHeight": 495
+      "ISBN13": "9780063251991",
+      "Title": "demon copperhead",
+      "Author": "Barbara Kingsolver",
+      "ImageWidth": 329,
+      "ImageHeight": 500
     },
     {
       "Rank": 5,
+      "ISBN13": "9780316404396",
+      "Title": "lies he told me",
+      "Author": "James Patterson and David Ellis",
+      "ImageWidth": 331,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 6,
+      "ISBN13": "9780063415843",
+      "Title": "when the moon hatched",
+      "Author": "Sarah A. Parker",
+      "ImageWidth": 333,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 7,
+      "ISBN13": "9780374602635",
+      "Title": "intermezzo",
+      "Author": "Sally Rooney",
+      "ImageWidth": 326,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 8,
+      "ISBN13": "9780593498569",
+      "Title": "triangle",
+      "Author": "Danielle Steel",
+      "ImageWidth": 327,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 9,
       "ISBN13": "9781250178633",
       "Title": "the women",
       "Author": "Kristin Hannah",
@@ -44,7 +76,7 @@
       "ImageHeight": 500
     },
     {
-      "Rank": 6,
+      "Rank": 10,
       "ISBN13": "9781635575569",
       "Title": "a court of thorns and roses",
       "Author": "Sarah J. Maas",
@@ -52,23 +84,23 @@
       "ImageHeight": 495
     },
     {
-      "Rank": 7,
-      "ISBN13": "9781464224461",
-      "Title": "goldfinch",
-      "Author": "Raven Kennedy",
-      "ImageWidth": 313,
+      "Rank": 11,
+      "ISBN13": "9781501110368",
+      "Title": "it ends with us",
+      "Author": "Colleen Hoover",
+      "ImageWidth": 319,
+      "ImageHeight": 495
+    },
+    {
+      "Rank": 12,
+      "ISBN13": "9780593817414",
+      "Title": "beach read",
+      "Author": "Emily Henry",
+      "ImageWidth": 333,
       "ImageHeight": 500
     },
     {
-      "Rank": 8,
-      "ISBN13": "9780593798607",
-      "Title": "here one moment",
-      "Author": "Liane Moriarty",
-      "ImageWidth": 329,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 9,
+      "Rank": 13,
       "ISBN13": "9781538742570",
       "Title": "the housemaid",
       "Author": "Freida McFadden",
@@ -76,51 +108,19 @@
       "ImageHeight": 500
     },
     {
-      "Rank": 10,
-      "ISBN13": "9781649374172",
-      "Title": "iron flame",
-      "Author": "Rebecca Yarros",
-      "ImageWidth": 309,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 11,
-      "ISBN13": "9781668001226",
-      "Title": "it starts with us",
-      "Author": "Colleen Hoover",
-      "ImageWidth": 322,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 12,
-      "ISBN13": "9781324086031",
-      "Title": "playground",
-      "Author": "Richard Powers",
-      "ImageWidth": 329,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 13,
-      "ISBN13": "9781635575583",
-      "Title": "a court of mist and fury",
-      "Author": "Sarah J. Maas",
-      "ImageWidth": 333,
-      "ImageHeight": 500
-    },
-    {
       "Rank": 14,
-      "ISBN13": "9780063251984",
-      "Title": "demon copperhead",
-      "Author": "Barbara Kingsolver",
+      "ISBN13": "9780593798607",
+      "Title": "here one moment",
+      "Author": "Liane Moriarty",
       "ImageWidth": 329,
       "ImageHeight": 500
     },
     {
       "Rank": 15,
-      "ISBN13": "9780593446096",
-      "Title": "tell me everything",
-      "Author": "Elizabeth Strout",
-      "ImageWidth": 331,
+      "ISBN13": "9781649374172",
+      "Title": "iron flame",
+      "Author": "Rebecca Yarros",
+      "ImageWidth": 309,
       "ImageHeight": 500
     }
   ]

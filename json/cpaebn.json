@@ -1,26 +1,50 @@
 {
-  "LastModified": "2024-10-04T18:45:12-04:00",
+  "LastModified": "2024-10-09T22:05:07-04:00",
   "ListName": "Combined Print and E-Book Nonfiction",
-  "ListDate": "2024-09-28",
+  "ListDate": "2024-10-05",
   "Books": [
     {
       "Rank": 1,
-      "ISBN13": "9780593541678",
-      "Title": "the small and the mighty",
-      "Author": "Sharon McMahon",
-      "ImageWidth": 331,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 2,
-      "ISBN13": "9781668078433",
-      "Title": "truths",
-      "Author": "Vivek Ramaswamy",
+      "ISBN13": "9780593799895",
+      "Title": "be ready when the luck happens",
+      "Author": "Ina Garten",
       "ImageWidth": 333,
       "ImageHeight": 500
     },
     {
+      "Rank": 2,
+      "ISBN13": "9780316575805",
+      "Title": "revenge of the tipping point",
+      "Author": "Malcolm Gladwell",
+      "ImageWidth": 332,
+      "ImageHeight": 500
+    },
+    {
       "Rank": 3,
+      "ISBN13": "9780593230381",
+      "Title": "the message",
+      "Author": "Ta-Nehisi Coates",
+      "ImageWidth": 331,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 4,
+      "ISBN13": "9780063420052",
+      "Title": "black saturday",
+      "Author": "Trey Yingst",
+      "ImageWidth": 329,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 5,
+      "ISBN13": "9780062300553",
+      "Title": "hillbilly elegy",
+      "Author": "J.D. Vance",
+      "ImageWidth": 328,
+      "ImageHeight": 495
+    },
+    {
+      "Rank": 6,
       "ISBN13": "9781250346414",
       "Title": "confronting the presidents",
       "Author": "Bill O'Reilly and Martin Dugard",
@@ -28,34 +52,10 @@
       "ImageHeight": 500
     },
     {
-      "Rank": 4,
-      "ISBN13": "9781668024355",
-      "Title": "targeted: beirut",
-      "Author": "Jack Carr and James M. Scott",
-      "ImageWidth": 334,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 5,
+      "Rank": 7,
       "ISBN13": "9780593655030",
       "Title": "the anxious generation",
       "Author": "Jonathan Haidt",
-      "ImageWidth": 329,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 6,
-      "ISBN13": "9781668017234",
-      "Title": "something lost, something gained",
-      "Author": "Hillary Rodham Clinton",
-      "ImageWidth": 331,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 7,
-      "ISBN13": "9780593299821",
-      "Title": "the barn",
-      "Author": "Wright Thompson",
       "ImageWidth": 329,
       "ImageHeight": 500
     },
@@ -77,50 +77,50 @@
     },
     {
       "Rank": 10,
-      "ISBN13": "9781668023778",
-      "Title": "the third gilmore girl",
-      "Author": "Kelly Bishop with Lindsay Harrison",
-      "ImageWidth": 330,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 11,
-      "ISBN13": "9780593729908",
-      "Title": "lovely one",
-      "Author": "Ketanji Brown Jackson",
-      "ImageWidth": 329,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 12,
-      "ISBN13": "9780593298640",
-      "Title": "lucky loser",
-      "Author": "Russ Buettner and Susanne Craig",
-      "ImageWidth": 329,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 13,
-      "ISBN13": "9780062300553",
-      "Title": "hillbilly elegy",
-      "Author": "J.D. Vance",
-      "ImageWidth": 328,
-      "ImageHeight": 495
-    },
-    {
-      "Rank": 14,
-      "ISBN13": "9781400337040",
-      "Title": "ghosts of honolulu",
-      "Author": "Mark Harmon and Leon Carroll Jr",
+      "ISBN13": "9781668078433",
+      "Title": "truths",
+      "Author": "Vivek Ramaswamy",
       "ImageWidth": 333,
       "ImageHeight": 500
     },
     {
-      "Rank": 15,
-      "ISBN13": "9780385348744",
-      "Title": "the demon of unrest",
-      "Author": "Erik Larson",
+      "Rank": 11,
+      "ISBN13": "9780593541678",
+      "Title": "the small and the mighty",
+      "Author": "Sharon McMahon",
       "ImageWidth": 331,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 12,
+      "ISBN13": "9781668017234",
+      "Title": "something lost, something gained",
+      "Author": "Hillary Rodham Clinton",
+      "ImageWidth": 331,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 13,
+      "ISBN13": "9781335081070",
+      "Title": "america's deadliest election",
+      "Author": "Dana Bash with David Fisher",
+      "ImageWidth": 331,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 14,
+      "ISBN13": "9781668024355",
+      "Title": "targeted: beirut",
+      "Author": "Jack Carr and James M. Scott",
+      "ImageWidth": 334,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 15,
+      "ISBN13": "9780593800232",
+      "Title": "abortion",
+      "Author": "Jessica Valenti",
+      "ImageWidth": 338,
       "ImageHeight": 500
     }
   ]
