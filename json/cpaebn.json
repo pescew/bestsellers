@@ -1,10 +1,26 @@
 {
-  "LastModified": "2024-10-09T22:05:07-04:00",
+  "LastModified": "2024-10-16T22:04:47-04:00",
   "ListName": "Combined Print and E-Book Nonfiction",
-  "ListDate": "2024-10-05",
+  "ListDate": "2024-10-12",
   "Books": [
     {
       "Rank": 1,
+      "ISBN13": "9781510782693",
+      "Title": "melania",
+      "Author": "Melania Trump",
+      "ImageWidth": 333,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 2,
+      "ISBN13": "9780593733875",
+      "Title": "from here to the great unknown",
+      "Author": "Lisa Marie Presley and Riley Keough",
+      "ImageWidth": 331,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 3,
       "ISBN13": "9780593799895",
       "Title": "be ready when the luck happens",
       "Author": "Ina Garten",
@@ -12,15 +28,7 @@
       "ImageHeight": 500
     },
     {
-      "Rank": 2,
-      "ISBN13": "9780316575805",
-      "Title": "revenge of the tipping point",
-      "Author": "Malcolm Gladwell",
-      "ImageWidth": 332,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 3,
+      "Rank": 4,
       "ISBN13": "9780593230381",
       "Title": "the message",
       "Author": "Ta-Nehisi Coates",
@@ -28,31 +36,15 @@
       "ImageHeight": 500
     },
     {
-      "Rank": 4,
-      "ISBN13": "9780063420052",
-      "Title": "black saturday",
-      "Author": "Trey Yingst",
-      "ImageWidth": 329,
-      "ImageHeight": 500
-    },
-    {
       "Rank": 5,
-      "ISBN13": "9780062300553",
-      "Title": "hillbilly elegy",
-      "Author": "J.D. Vance",
-      "ImageWidth": 328,
-      "ImageHeight": 495
+      "ISBN13": "9780316575805",
+      "Title": "revenge of the tipping point",
+      "Author": "Malcolm Gladwell",
+      "ImageWidth": 332,
+      "ImageHeight": 500
     },
     {
       "Rank": 6,
-      "ISBN13": "9781250346414",
-      "Title": "confronting the presidents",
-      "Author": "Bill O'Reilly and Martin Dugard",
-      "ImageWidth": 329,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 7,
       "ISBN13": "9780593655030",
       "Title": "the anxious generation",
       "Author": "Jonathan Haidt",
@@ -60,10 +52,18 @@
       "ImageHeight": 500
     },
     {
+      "Rank": 7,
+      "ISBN13": "9780062300553",
+      "Title": "hillbilly elegy",
+      "Author": "J.D. Vance",
+      "ImageWidth": 328,
+      "ImageHeight": 495
+    },
+    {
       "Rank": 8,
-      "ISBN13": "9780593734223",
-      "Title": "nexus",
-      "Author": "Yuval Noah Harari",
+      "ISBN13": "9781250346414",
+      "Title": "confronting the presidents",
+      "Author": "Bill O'Reilly and Martin Dugard",
       "ImageWidth": 329,
       "ImageHeight": 500
     },
@@ -77,50 +77,50 @@
     },
     {
       "Rank": 10,
-      "ISBN13": "9781668078433",
-      "Title": "truths",
-      "Author": "Vivek Ramaswamy",
-      "ImageWidth": 333,
+      "ISBN13": "9780063420052",
+      "Title": "black saturday",
+      "Author": "Trey Yingst",
+      "ImageWidth": 329,
       "ImageHeight": 500
     },
     {
       "Rank": 11,
-      "ISBN13": "9780593541678",
-      "Title": "the small and the mighty",
-      "Author": "Sharon McMahon",
-      "ImageWidth": 331,
+      "ISBN13": "9780593734223",
+      "Title": "nexus",
+      "Author": "Yuval Noah Harari",
+      "ImageWidth": 329,
       "ImageHeight": 500
     },
     {
       "Rank": 12,
-      "ISBN13": "9781668017234",
-      "Title": "something lost, something gained",
-      "Author": "Hillary Rodham Clinton",
-      "ImageWidth": 331,
+      "ISBN13": "9780593236598",
+      "Title": "outlive",
+      "Author": "Peter Attia with Bill Gifford",
+      "ImageWidth": 385,
       "ImageHeight": 500
     },
     {
       "Rank": 13,
-      "ISBN13": "9781335081070",
-      "Title": "america's deadliest election",
-      "Author": "Dana Bash with David Fisher",
+      "ISBN13": "9781538725429",
+      "Title": "play nice",
+      "Author": "Jason Schreier",
       "ImageWidth": 331,
       "ImageHeight": 500
     },
     {
       "Rank": 14,
-      "ISBN13": "9781668024355",
-      "Title": "targeted: beirut",
-      "Author": "Jack Carr and James M. Scott",
-      "ImageWidth": 334,
+      "ISBN13": "9780593852194",
+      "Title": "countdown 1960",
+      "Author": "Chris Wallace with Mitch Weiss",
+      "ImageWidth": 331,
       "ImageHeight": 500
     },
     {
       "Rank": 15,
-      "ISBN13": "9780593800232",
-      "Title": "abortion",
-      "Author": "Jessica Valenti",
-      "ImageWidth": 338,
+      "ISBN13": "9780385348744",
+      "Title": "the demon of unrest",
+      "Author": "Erik Larson",
+      "ImageWidth": 331,
       "ImageHeight": 500
     }
   ]

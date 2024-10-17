@@ -1,7 +1,7 @@
 {
-  "LastModified": "2024-10-09T22:05:06-04:00",
+  "LastModified": "2024-10-16T22:04:47-04:00",
   "ListName": "Combined Print and E-Book Fiction",
-  "ListDate": "2024-10-05",
+  "ListDate": "2024-10-12",
   "Books": [
     {
       "Rank": 1,
@@ -21,6 +21,22 @@
     },
     {
       "Rank": 3,
+      "ISBN13": "9781538742570",
+      "Title": "the housemaid",
+      "Author": "Freida McFadden",
+      "ImageWidth": 333,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 4,
+      "ISBN13": "9781538770412",
+      "Title": "identity unknown",
+      "Author": "Patricia Cornwell",
+      "ImageWidth": 331,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 5,
       "ISBN13": "9781649377371",
       "Title": "fourth wing",
       "Author": "Rebecca Yarros",
@@ -28,47 +44,7 @@
       "ImageHeight": 500
     },
     {
-      "Rank": 4,
-      "ISBN13": "9780063251991",
-      "Title": "demon copperhead",
-      "Author": "Barbara Kingsolver",
-      "ImageWidth": 329,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 5,
-      "ISBN13": "9780316404396",
-      "Title": "lies he told me",
-      "Author": "James Patterson and David Ellis",
-      "ImageWidth": 331,
-      "ImageHeight": 500
-    },
-    {
       "Rank": 6,
-      "ISBN13": "9780063415843",
-      "Title": "when the moon hatched",
-      "Author": "Sarah A. Parker",
-      "ImageWidth": 333,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 7,
-      "ISBN13": "9780374602635",
-      "Title": "intermezzo",
-      "Author": "Sally Rooney",
-      "ImageWidth": 326,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 8,
-      "ISBN13": "9780593498569",
-      "Title": "triangle",
-      "Author": "Danielle Steel",
-      "ImageWidth": 327,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 9,
       "ISBN13": "9781250178633",
       "Title": "the women",
       "Author": "Kristin Hannah",
@@ -76,12 +52,36 @@
       "ImageHeight": 500
     },
     {
-      "Rank": 10,
+      "Rank": 7,
+      "ISBN13": "9781649374172",
+      "Title": "iron flame",
+      "Author": "Rebecca Yarros",
+      "ImageWidth": 309,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 8,
       "ISBN13": "9781635575569",
       "Title": "a court of thorns and roses",
       "Author": "Sarah J. Maas",
       "ImageWidth": 326,
       "ImageHeight": 495
+    },
+    {
+      "Rank": 9,
+      "ISBN13": "9781250355669",
+      "Title": "the stars are dying",
+      "Author": "Chloe C. Peñaranda",
+      "ImageWidth": 341,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 10,
+      "ISBN13": "9780374602635",
+      "Title": "intermezzo",
+      "Author": "Sally Rooney",
+      "ImageWidth": 326,
+      "ImageHeight": 500
     },
     {
       "Rank": 11,
@@ -93,34 +93,34 @@
     },
     {
       "Rank": 12,
-      "ISBN13": "9780593817414",
-      "Title": "beach read",
-      "Author": "Emily Henry",
-      "ImageWidth": 333,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 13,
-      "ISBN13": "9781538742570",
-      "Title": "the housemaid",
-      "Author": "Freida McFadden",
-      "ImageWidth": 333,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 14,
-      "ISBN13": "9780593798607",
-      "Title": "here one moment",
-      "Author": "Liane Moriarty",
+      "ISBN13": "9780063251991",
+      "Title": "demon copperhead",
+      "Author": "Barbara Kingsolver",
       "ImageWidth": 329,
       "ImageHeight": 500
     },
     {
+      "Rank": 13,
+      "ISBN13": "9781250895783",
+      "Title": "the last one at the wedding",
+      "Author": "Jason Rekulak",
+      "ImageWidth": 329,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 14,
+      "ISBN13": "9780316403894",
+      "Title": "lies he told me",
+      "Author": "James Patterson and David Ellis",
+      "ImageWidth": 331,
+      "ImageHeight": 500
+    },
+    {
       "Rank": 15,
-      "ISBN13": "9781649374172",
-      "Title": "iron flame",
-      "Author": "Rebecca Yarros",
-      "ImageWidth": 309,
+      "ISBN13": "9780349132617",
+      "Title": "the housemaid's secret",
+      "Author": "Freida McFadden",
+      "ImageWidth": 327,
       "ImageHeight": 500
     }
   ]
