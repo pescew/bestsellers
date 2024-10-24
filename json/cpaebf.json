@@ -1,10 +1,18 @@
 {
-  "LastModified": "2024-10-16T22:04:47-04:00",
+  "LastModified": "2024-10-23T22:05:05-04:00",
   "ListName": "Combined Print and E-Book Fiction",
-  "ListDate": "2024-10-12",
+  "ListDate": "2024-10-19",
   "Books": [
     {
       "Rank": 1,
+      "ISBN13": "9780316563819",
+      "Title": "the waiting",
+      "Author": "Michael Connelly",
+      "ImageWidth": 323,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 2,
       "ISBN13": "9781728296227",
       "Title": "the boyfriend",
       "Author": "Freida McFadden",
@@ -12,7 +20,15 @@
       "ImageHeight": 500
     },
     {
-      "Rank": 2,
+      "Rank": 3,
+      "ISBN13": "9781649377371",
+      "Title": "fourth wing",
+      "Author": "Rebecca Yarros",
+      "ImageWidth": 309,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 4,
       "ISBN13": "9780593449592",
       "Title": "counting miracles",
       "Author": "Nicholas Sparks",
@@ -20,27 +36,11 @@
       "ImageHeight": 500
     },
     {
-      "Rank": 3,
+      "Rank": 5,
       "ISBN13": "9781538742570",
       "Title": "the housemaid",
       "Author": "Freida McFadden",
       "ImageWidth": 333,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 4,
-      "ISBN13": "9781538770412",
-      "Title": "identity unknown",
-      "Author": "Patricia Cornwell",
-      "ImageWidth": 331,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 5,
-      "ISBN13": "9781649377371",
-      "Title": "fourth wing",
-      "Author": "Rebecca Yarros",
-      "ImageWidth": 309,
       "ImageHeight": 500
     },
     {
@@ -69,11 +69,11 @@
     },
     {
       "Rank": 9,
-      "ISBN13": "9781250355669",
-      "Title": "the stars are dying",
-      "Author": "Chloe C. Peñaranda",
-      "ImageWidth": 341,
-      "ImageHeight": 500
+      "ISBN13": "9781501110368",
+      "Title": "it ends with us",
+      "Author": "Colleen Hoover",
+      "ImageWidth": 319,
+      "ImageHeight": 495
     },
     {
       "Rank": 10,
@@ -85,42 +85,42 @@
     },
     {
       "Rank": 11,
-      "ISBN13": "9781501110368",
-      "Title": "it ends with us",
-      "Author": "Colleen Hoover",
-      "ImageWidth": 319,
-      "ImageHeight": 495
-    },
-    {
-      "Rank": 12,
-      "ISBN13": "9780063251991",
-      "Title": "demon copperhead",
-      "Author": "Barbara Kingsolver",
-      "ImageWidth": 329,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 13,
-      "ISBN13": "9781250895783",
-      "Title": "the last one at the wedding",
-      "Author": "Jason Rekulak",
-      "ImageWidth": 329,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 14,
-      "ISBN13": "9780316403894",
-      "Title": "lies he told me",
-      "Author": "James Patterson and David Ellis",
-      "ImageWidth": 331,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 15,
       "ISBN13": "9780349132617",
       "Title": "the housemaid's secret",
       "Author": "Freida McFadden",
       "ImageWidth": 327,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 12,
+      "ISBN13": "9781464230158",
+      "Title": "how my neighbor stole christmas",
+      "Author": "Meghan Quinn",
+      "ImageWidth": 324,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 13,
+      "ISBN13": "9781464221132",
+      "Title": "the housemaid is watching",
+      "Author": "Freida McFadden",
+      "ImageWidth": 313,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 14,
+      "ISBN13": "9780593725337",
+      "Title": "a christmas duet",
+      "Author": "Debbie Macomber",
+      "ImageWidth": 340,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 15,
+      "ISBN13": "9780593798614",
+      "Title": "here one moment",
+      "Author": "Liane Moriarty",
+      "ImageWidth": 329,
       "ImageHeight": 500
     }
   ]
