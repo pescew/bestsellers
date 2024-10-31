@@ -1,18 +1,10 @@
 {
-  "LastModified": "2024-10-23T22:05:05-04:00",
+  "LastModified": "2024-10-30T22:25:00-04:00",
   "ListName": "Combined Print and E-Book Nonfiction",
-  "ListDate": "2024-10-19",
+  "ListDate": "2024-10-26",
   "Books": [
     {
       "Rank": 1,
-      "ISBN13": "9781668052273",
-      "Title": "war",
-      "Author": "Bob Woodward",
-      "ImageWidth": 331,
-      "ImageHeight": 500
-    },
-    {
-      "Rank": 2,
       "ISBN13": "9780385550444",
       "Title": "framed",
       "Author": "John Grisham and Jim McCloskey",
@@ -20,15 +12,31 @@
       "ImageHeight": 500
     },
     {
-      "Rank": 3,
-      "ISBN13": "9780593733875",
-      "Title": "from here to the great unknown",
-      "Author": "Lisa Marie Presley and Riley Keough",
+      "Rank": 2,
+      "ISBN13": "9780063265707",
+      "Title": "brothers",
+      "Author": "Alex Van Halen",
       "ImageWidth": 331,
       "ImageHeight": 500
     },
     {
+      "Rank": 3,
+      "ISBN13": "9780593320969",
+      "Title": "patriot",
+      "Author": "Alexei Navalny",
+      "ImageWidth": 326,
+      "ImageHeight": 500
+    },
+    {
       "Rank": 4,
+      "ISBN13": "9781668052273",
+      "Title": "war",
+      "Author": "Bob Woodward",
+      "ImageWidth": 331,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 5,
       "ISBN13": "9780593230381",
       "Title": "the message",
       "Author": "Ta-Nehisi Coates",
@@ -36,7 +44,7 @@
       "ImageHeight": 500
     },
     {
-      "Rank": 5,
+      "Rank": 6,
       "ISBN13": "9781510782693",
       "Title": "melania",
       "Author": "Melania Trump",
@@ -44,15 +52,15 @@
       "ImageHeight": 500
     },
     {
-      "Rank": 6,
-      "ISBN13": "9780593799895",
-      "Title": "be ready when the luck happens",
-      "Author": "Ina Garten",
-      "ImageWidth": 333,
+      "Rank": 7,
+      "ISBN13": "9780593733875",
+      "Title": "from here to the great unknown",
+      "Author": "Lisa Marie Presley and Riley Keough",
+      "ImageWidth": 331,
       "ImageHeight": 500
     },
     {
-      "Rank": 7,
+      "Rank": 8,
       "ISBN13": "9780316575805",
       "Title": "revenge of the tipping point",
       "Author": "Malcolm Gladwell",
@@ -60,27 +68,19 @@
       "ImageHeight": 500
     },
     {
-      "Rank": 8,
-      "ISBN13": "9781668055687",
-      "Title": "what i ate in one year",
-      "Author": "Stanley Tucci",
-      "ImageWidth": 331,
-      "ImageHeight": 500
-    },
-    {
       "Rank": 9,
-      "ISBN13": "9780593655030",
-      "Title": "the anxious generation",
-      "Author": "Jonathan Haidt",
-      "ImageWidth": 329,
+      "ISBN13": "9780593799895",
+      "Title": "be ready when the luck happens",
+      "Author": "Ina Garten",
+      "ImageWidth": 333,
       "ImageHeight": 500
     },
     {
       "Rank": 10,
-      "ISBN13": "9780593655115",
-      "Title": "sonny boy",
-      "Author": "Al Pacino",
-      "ImageWidth": 329,
+      "ISBN13": "9781668067307",
+      "Title": "dinner for vampires",
+      "Author": "Bethany Joy Lenz",
+      "ImageWidth": 326,
       "ImageHeight": 500
     },
     {
@@ -93,35 +93,35 @@
     },
     {
       "Rank": 12,
-      "ISBN13": "9780593183113",
-      "Title": "cats of the world",
-      "Author": "Hannah Shaw and and Andrew Marttila",
-      "ImageWidth": 401,
+      "ISBN13": "9780316407205",
+      "Title": "american heroes",
+      "Author": "James Patterson and Matt Eversmann with Tim Malloy",
+      "ImageWidth": 323,
       "ImageHeight": 500
     },
     {
       "Rank": 13,
-      "ISBN13": "9780593541944",
-      "Title": "toxic empathy",
-      "Author": "Allie Beth Stuckey",
-      "ImageWidth": 333,
+      "ISBN13": "9780593655030",
+      "Title": "the anxious generation",
+      "Author": "Jonathan Haidt",
+      "ImageWidth": 329,
       "ImageHeight": 500
     },
     {
       "Rank": 14,
+      "ISBN13": "9780593655115",
+      "Title": "sonny boy",
+      "Author": "Al Pacino",
+      "ImageWidth": 329,
+      "ImageHeight": 500
+    },
+    {
+      "Rank": 15,
       "ISBN13": "9780062300553",
       "Title": "hillbilly elegy",
       "Author": "J.D. Vance",
       "ImageWidth": 328,
       "ImageHeight": 495
-    },
-    {
-      "Rank": 15,
-      "ISBN13": "9781639735310",
-      "Title": "blind spots",
-      "Author": "Marty Makary",
-      "ImageWidth": 329,
-      "ImageHeight": 500
     }
   ]
 }
