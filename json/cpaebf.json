@@ -1,22 +1,22 @@
 {
-  "LastModified": "2024-10-30T22:25:00-04:00",
+  "LastModified": "2024-11-06T23:25:00-05:00",
   "ListName": "Combined Print and E-Book Fiction",
-  "ListDate": "2024-10-26",
+  "ListDate": "2024-11-02",
   "Books": [
     {
       "Rank": 1,
-      "ISBN13": "9780593725818",
-      "Title": "in too deep",
-      "Author": "Lee Child and Andrew Child",
+      "ISBN13": "9781250328144",
+      "Title": "the grey wolf",
+      "Author": "Louise Penny",
       "ImageWidth": 329,
       "ImageHeight": 500
     },
     {
       "Rank": 2,
-      "ISBN13": "9781464223327",
-      "Title": "the striker",
-      "Author": "Ana Huang",
-      "ImageWidth": 324,
+      "ISBN13": "9780593725801",
+      "Title": "in too deep",
+      "Author": "Lee Child and Andrew Child",
+      "ImageWidth": 329,
       "ImageHeight": 500
     },
     {
@@ -45,11 +45,11 @@
     },
     {
       "Rank": 6,
-      "ISBN13": "9781649374059",
-      "Title": "bloodguard",
-      "Author": "Cecy Robson",
-      "ImageWidth": 309,
-      "ImageHeight": 500
+      "ISBN13": "9780316580946",
+      "Title": "throne of secrets",
+      "Author": "Kerri Maniscalco",
+      "ImageWidth": 0,
+      "ImageHeight": 0
     },
     {
       "Rank": 7,
@@ -69,10 +69,10 @@
     },
     {
       "Rank": 9,
-      "ISBN13": "9780316539951",
-      "Title": "the fury of the gods",
-      "Author": "John Gwynne",
-      "ImageWidth": 324,
+      "ISBN13": "9780063396562",
+      "Title": "the blue hour",
+      "Author": "Paula Hawkins",
+      "ImageWidth": 331,
       "ImageHeight": 500
     },
     {
@@ -101,26 +101,26 @@
     },
     {
       "Rank": 13,
-      "ISBN13": "9780374616595",
-      "Title": "absolution",
-      "Author": "Jeff VanderMeer",
-      "ImageWidth": 326,
+      "ISBN13": "9781464223327",
+      "Title": "the striker",
+      "Author": "Ana Huang",
+      "ImageWidth": 324,
       "ImageHeight": 500
     },
     {
       "Rank": 14,
-      "ISBN13": "9781501110368",
-      "Title": "it ends with us",
-      "Author": "Colleen Hoover",
-      "ImageWidth": 319,
-      "ImageHeight": 495
+      "ISBN13": "9780349132617",
+      "Title": "the housemaid's secret",
+      "Author": "Freida McFadden",
+      "ImageWidth": 327,
+      "ImageHeight": 500
     },
     {
       "Rank": 15,
-      "ISBN13": "9780593798607",
-      "Title": "here one moment",
-      "Author": "Liane Moriarty",
-      "ImageWidth": 329,
+      "ISBN13": "9781638932239",
+      "Title": "lights out",
+      "Author": "Navessa Allen",
+      "ImageWidth": 333,
       "ImageHeight": 500
     }
   ]
